@@ -1,0 +1,38 @@
+html {
+  max-width: auto;
+}
+
+body {
+  font-family: serif;
+  padding: 10px 20px 20px 20px;
+  margin: 0;
+  width: 90%;
+}
+
+p, a {
+  color: black;
+  font-family: serif;
+  margin-bottom: 0px;
+}
+
+a:hover,
+span.two a:hover {
+  color: white;
+}
+
+li a.current{
+  color: 5ffdff;
+}
+span.two, span.two a {
+  color: #cccccc;
+}
+
+span.soon {
+  color: orange;
+  opacity: 0.5;
+}
+
+ul {
+  margin-top: 0px;
+}
+
